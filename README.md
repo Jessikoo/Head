@@ -11,7 +11,6 @@
 - [Мета](#мета)
 - [Ссылки](#ссылки)
 - [Иконки](#иконки)
-- [Социальные сети](#социальные-сети)
   - [Facebook Open Graph](#facebook-open-graph)
   - [Twitter Card](#twitter-card)
   - [Twitter Privacy](#twitter-privacy)
