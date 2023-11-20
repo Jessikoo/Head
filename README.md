@@ -17,7 +17,6 @@
   - [Twitter Privacy](#twitter-privacy)
   - [Schema.org](#schemaorg)
   - [JSON-LD](#json-ld)
-  - [Pinterest](#pinterest)
   - [Facebook Instant Articles](#facebook-instant-articles)
   - [OEmbed](#oembed)
   - [QQ/Wechat](#qqwechat)
